@@ -14,7 +14,7 @@ This section describes the process of creating a docker container image using Do
 1.Download and run Dockerfile
 
 $ git clone [https://github.com/zaiin4050/demo_docker_img](https://github.com/zaiin4050/demo_docker_img)
-$ cd demo_docker
+$ cd demo_docker_img
 
 ### 1.dockerfile download and executre
 
